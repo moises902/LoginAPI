@@ -1,0 +1,5 @@
+export const LOGIN_INPUT_CHANGE = 'LOGIN_INPUT_CHANGE';
+export const LOGIN_SUBMIT = 'LOGIN_SUBMIT';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILURE = 'LOGIN_FAILURE';
+export const LOGIN_RESET = 'LOGIN_RESET';

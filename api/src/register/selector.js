@@ -1,0 +1,1 @@
+export const registerState = state => state.register;

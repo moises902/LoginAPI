@@ -1,0 +1,1 @@
+export const recordState = state => state.records;
